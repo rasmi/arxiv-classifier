@@ -1,0 +1,8 @@
+To run the project code, either open the IPython Notebook with
+$ ipython notebook arXiv-classification.ipynb
+
+Or run the .py file with
+$ python arXiv-classification.py
+
+The code will load article data located in json format in the articles/ directory if available.
+If articles are not available, the code will download articles from arXiv.org.
